@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello my free world!"
-date: {}
+date: 2015-04-14 00:38:37
 categories: start
 published: true
 ---
